@@ -34,20 +34,17 @@ header.row {
 	margin-bottom: -15px;
 }
 nav.row .navbar.navbar-default {
-	background-color: #D87E40;
-	background-image: -webkit-linear-gradient(270deg,rgba(233,231,218,1.00) 1.55%,rgba(233,120,85,1.00) 100%,rgba(217,102,42,1.00) 100%);
-	background-image: -moz-linear-gradient(270deg,rgba(233,231,218,1.00) 1.55%,rgba(233,120,85,1.00) 100%,rgba(217,102,42,1.00) 100%);
-	background-image: -o-linear-gradient(270deg,rgba(233,231,218,1.00) 1.55%,rgba(233,120,85,1.00) 100%,rgba(217,102,42,1.00) 100%);
-	background-image: linear-gradient(180deg,rgba(233,231,218,1.00) 1.55%,rgba(233,120,85,1.00) 100%,rgba(217,102,42,1.00) 100%);
+	background-color: #F7F5F4;
 	color: #3D1B03;
 }
 nav.row .nav.navbar-nav {
 	margin-top: 0px;
 	margin-right: auto;
-	margin-left: 277px;
+	margin-left: auto;
 	margin-bottom: 0px;
 	float: none;
 	width: 715px;
+	display: block;
 }
 
 
@@ -59,8 +56,7 @@ nav.row .nav.navbar-nav {
 	box-shadow: 0px 2px 5px;
 	font-size: small;
 	letter-spacing: 0em;
-	border-right-style: ridge;
-	border-right-width: medium;
+	border-right: medium ridge #3D1B03;
 
 }
 nav.row .navbar {
@@ -86,11 +82,7 @@ article.row aside blockquote p {
 }
 footer {
 	padding: 1em 0px;
-	background-color: #D87E40;
-	background-image: -webkit-linear-gradient(270deg,rgba(233,231,218,1.00) 0%,rgba(232,119,89,1.00) 86.53%);
-	background-image: -moz-linear-gradient(270deg,rgba(233,231,218,1.00) 0%,rgba(232,119,89,1.00) 86.53%);
-	background-image: -o-linear-gradient(270deg,rgba(233,231,218,1.00) 0%,rgba(232,119,89,1.00) 86.53%);
-	background-image: linear-gradient(180deg,rgba(233,231,218,1.00) 0%,rgba(232,119,89,1.00) 86.53%);
+	background-color: #F5F3F3;
 	color: #3D1B03;
 	text-align: center;
 }
@@ -137,10 +129,12 @@ article.row aside {
 
 
 
+
 @media (max-width: 444px){
 header.row p {
 	letter-spacing: .1em;
 }
+
 header .row {
 	background-size: 95% 80%
 %;
@@ -168,9 +162,10 @@ article.row section h2 {
 	-webkit-box-sizing: inherit;
 	-moz-box-sizing: inherit;
 	box-sizing: inherit;
-	margin-left: 140px;
+	margin: 0 auto;
 	background-position: 0% 0%;
 	border: 20px ridge #DF6919;
+	display: block;
 }
 .side_region1 {
 }
@@ -186,4 +181,8 @@ article.row section h2 {
 .logo_main {
 }
 .side_para_margin {
+}
+.centre_img {
+}
+.img_center {
 }

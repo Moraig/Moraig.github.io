@@ -1296,6 +1296,7 @@ h2,
 .h2 {
 	font-size: 30px;
 	text-shadow: 0px 2px 2px #DF6919;
+	text-align: center;
 }
 h3,
 .h3 {
@@ -1432,8 +1433,7 @@ a.bg-danger:hover {
 }
 ul,
 ol {
-  margin-top: 0;
-  margin-bottom: 10px;
+
 }
 ul ul,
 ol ul,
@@ -2270,9 +2270,6 @@ table {
 	background-color: transparent;
 	width: 260px;
 	margin-left: 10px;
-	border-top: thin solid #DF6919;
-	border-left: thin solid #DF6919;
-	border-bottom: thin solid #DF6919;
 }
 caption {
   padding-top: 8px;
@@ -4288,7 +4285,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin: 0;
   }
   .navbar-nav > li {
-    float: left;
+	float: left;
+	padding-right: 2px;
+	margin-left: 5px;
   }
   .navbar-nav > li > a {
     padding-top: 15px;
@@ -4424,8 +4423,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7;
+
 }
 .navbar-default .navbar-brand {
   color: #777;
@@ -4439,7 +4437,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #777;
 }
 .navbar-default .navbar-nav > li > a {
-	color: #5B2703;
+	color: #3D1B03;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
