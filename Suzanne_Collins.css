@@ -1,0 +1,180 @@
+header.row h2 {
+	color: #3D1B03;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 350%;
+	text-align: center;
+	text-shadow: 0px 5px 5px #DF6919;
+}
+.logoyellow {
+	color: #DF6919;
+	text-shadow: 0px 5px 5px #3D1B03;
+}
+.side_region1 {
+	background-color: #F8E6E2;
+}
+.centre {
+}
+
+
+header.row p {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 0px 2px 2px #F5DCB7;
+	letter-spacing: 0.7em;
+	color: #3D1B03;
+	font-size: medium;
+}
+header.row {
+	padding: 20px 0px;
+	background-image: url(images/475231093.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 87%;
+	background-position: center top;
+	margin-bottom: -15px;
+}
+nav.row .navbar.navbar-default {
+	background-color: #D87E40;
+	background-image: -webkit-linear-gradient(270deg,rgba(233,231,218,1.00) 1.55%,rgba(233,120,85,1.00) 100%,rgba(217,102,42,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(233,231,218,1.00) 1.55%,rgba(233,120,85,1.00) 100%,rgba(217,102,42,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(233,231,218,1.00) 1.55%,rgba(233,120,85,1.00) 100%,rgba(217,102,42,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(233,231,218,1.00) 1.55%,rgba(233,120,85,1.00) 100%,rgba(217,102,42,1.00) 100%);
+	color: #3D1B03;
+}
+nav.row .nav.navbar-nav {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: 285px;
+	margin-bottom: 0px;
+	float: none;
+	width: 715px;
+}
+
+
+.nav_border {
+	text-shadow: 0px 0px;
+	/* [disabled]font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace; */
+	text-align: center;
+	-webkit-box-shadow: 0px 2px 5px;
+	box-shadow: 0px 2px 5px;
+	font-size: small;
+	letter-spacing: 0em;
+	border-right-style: ridge;
+	border-right-width: medium;
+
+}
+nav.row .navbar {
+	margin-bottom: 0px;
+}
+article.row aside blockquote {
+	padding: 0px;
+	margin: 20px;
+	border: none;
+	font-size: 100%;
+}
+article.row aside blockquote p {
+	padding-top: 0px;
+	padding-right: .5em;
+	padding-left: 1em;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	text-indent: -0.5em;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+footer {
+	padding: 1em 0px;
+	background-color: #D87E40;
+	background-image: -webkit-linear-gradient(270deg,rgba(233,231,218,1.00) 0%,rgba(232,119,89,1.00) 86.53%);
+	background-image: -moz-linear-gradient(270deg,rgba(233,231,218,1.00) 0%,rgba(232,119,89,1.00) 86.53%);
+	background-image: -o-linear-gradient(270deg,rgba(233,231,218,1.00) 0%,rgba(232,119,89,1.00) 86.53%);
+	background-image: linear-gradient(180deg,rgba(233,231,218,1.00) 0%,rgba(232,119,89,1.00) 86.53%);
+	color: #3D1B03;
+	text-align: center;
+}
+
+article.row aside blockquote cite {
+	padding: 0px 10px;
+	display: block;
+	font-style: italic;
+	text-align: right;
+}
+article.row aside {
+	border-top: solid 5px #f2cc43;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding: 1em 0px;
+	border-bottom: solid 3px #f2cc43;
+	font-size: 95%;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	background-color: #F8E6E2;
+}
+.side_region2 {
+}
+.logo_main {
+	margin-left: 450px;
+}
+
+
+.img-home-main {
+	border-radius: 70px;
+	margin-left: 155px;
+
+}
+.side_pad {
+	padding-left: 40px;
+}
+
+
+
+@media (max-width: 444px){
+header.row p {
+	letter-spacing: .1em;
+}
+header .row {
+	background-size: 95% 80%
+%;
+	padding: 10px 0px;
+	background-size: 85% auto,auto auto,100% auto;
+	font-size: 80%;
+}
+article.row section h1 {
+	padding-top: 15px;
+	font-size: 185%;
+	line-height: 1.1em;
+	text-align: left;
+}
+article.row section h2 {
+	font-size: 150%;
+	line-height: 1.1em;
+}
+
+
+
+
+
+}
+.img-home-main {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+	margin-left: 140px;
+	background-position: 0% 0%;
+	border: 20px ridge #DF6919;
+}
+.side_region1 {
+}
+.center {
+	text-align: center;
+	margin-top: 2px;
+}
+.side_pad {
+	padding-bottom: 20px;
+}
+.side_region2 {
+}
+.logo_main {
+}
