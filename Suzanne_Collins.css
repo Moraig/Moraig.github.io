@@ -44,7 +44,7 @@ nav.row .navbar.navbar-default {
 nav.row .nav.navbar-nav {
 	margin-top: 0px;
 	margin-right: auto;
-	margin-left: 285px;
+	margin-left: 277px;
 	margin-bottom: 0px;
 	float: none;
 	width: 715px;
@@ -127,6 +127,13 @@ article.row aside {
 .side_pad {
 	padding-left: 40px;
 }
+.side_para_margin {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
 
 
 
@@ -177,4 +184,6 @@ article.row section h2 {
 .side_region2 {
 }
 .logo_main {
+}
+.side_para_margin {
 }
