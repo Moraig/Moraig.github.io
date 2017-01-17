@@ -27,11 +27,11 @@ header.row p {
 }
 header.row {
 	padding: 20px 0px;
-	background-image: url(images/475231093.jpg);
-	background-repeat: no-repeat;
-	background-size: 100% 87%;
+	background-repeat: repeat-x;
+	background-size: 25% 87%;
 	background-position: center top;
 	margin-bottom: -15px;
+	background-image: url(images/475231093%20bright.jpg);
 }
 nav.row .navbar.navbar-default {
 	background-color: #F7F5F4;
@@ -56,7 +56,7 @@ nav.row .nav.navbar-nav {
 	box-shadow: 0px 2px 5px;
 	font-size: small;
 	letter-spacing: 0em;
-	border-right: medium ridge #3D1B03;
+	border-right: medium ridge #DD4615;
 
 }
 nav.row .navbar {
@@ -102,7 +102,7 @@ article.row aside {
 	font-size: 95%;
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
-	background-color: #F8E6E2;
+	background-color: #ed9e0e;
 }
 .side_region2 {
 }
@@ -125,6 +125,12 @@ article.row aside {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+.img-center {
+	margin: 0 auto;
+	display: block;
+}
+
+
 
 
 
@@ -185,4 +191,10 @@ article.row section h2 {
 .centre_img {
 }
 .img_center {
+}
+.img-center {
+}
+.header-img {
+	width: 6%;
+	height: 6%;
 }
