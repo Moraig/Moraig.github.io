@@ -1283,7 +1283,7 @@ h1,
 	font-size: 36px;
 	text-align: center;
 	color: #FCBC12;
-	text-shadow: 0px 3px 2px #DD4615;
+	text-shadow: 0px 2px 2px #3D1B03;
 	padding-top: 20px;
 }
 article.row section h1 {
@@ -1318,6 +1318,7 @@ h6,
 p {
 	margin: 0 0 10px;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	padding-left: 5px;
 }
 .lead {
   margin-bottom: 20px;
@@ -2270,7 +2271,8 @@ pre code {
 table {
 	background-color: transparent;
 	width: 260px;
-	margin-left: 10px;
+	margin: 0 auto;
+	display: block;
 }
 caption {
   padding-top: 8px;
