@@ -34,6 +34,7 @@ header.row {
 	margin-bottom: -15px;
 	background-repeat: no-repeat;
 	background-image: url(url);
+	margin-top: -20px;
 }
 nav.row .navbar.navbar-default {
 	background-color: #F7F5F4;
@@ -160,6 +161,10 @@ img-shadow {
 .yellow-border {
 	border: medium ridge #FCBC12;
 }
+.img-right {
+	margin-left: 300px;
+}
+
 
 
 
@@ -252,4 +257,6 @@ article.row section h2 {
 .img-shadow {
 	-webkit-box-shadow: 2px 5px 2px #DD4615;
 	box-shadow: 2px 5px 2px #DD4615;
+}
+.img-right {
 }

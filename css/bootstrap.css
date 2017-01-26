@@ -1311,7 +1311,8 @@ h4,
 }
 h5,
 .h5 {
-  font-size: 14px;
+	font-size: 14px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 }
 h6,
 .h6 {
