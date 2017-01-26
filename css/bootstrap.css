@@ -1291,6 +1291,7 @@ article.row section h1 {
 	margin-bottom: 15px;
 	font-size: 300%;
 	line-height: 1.4em;
+	font-family: inherit;
 }
 
 h2,
@@ -1298,6 +1299,7 @@ h2,
 	font-size: 30px;
 	text-shadow: 0px 2px 2px #DF6919;
 	text-align: center;
+	font-family: inherit;
 }
 h3,
 .h3 {
@@ -1623,10 +1625,11 @@ pre code {
   }
 }
 .container-fluid {
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 0px;
 }
 .row {
 	margin-right: -15px;

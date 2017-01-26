@@ -22,19 +22,18 @@ header.row p {
 	text-align: center;
 	text-shadow: 0px 2px 2px #F5DCB7;
 	letter-spacing: 0.7em;
-	color: #3D1B03;
+	color: #DF6919;
 	font-size: medium;
 }
 header.row {
-	padding-top: 20px;
 	padding-right: 0px;
 	padding-left: 0px;
 	padding-bottom: 20px;
-	background-repeat: repeat-x;
 	background-size: 25% 87%;
 	background-position: center top;
 	margin-bottom: -15px;
-	background-image: url(images/475231093%20bright.jpg);
+	background-repeat: no-repeat;
+	background-image: url(url);
 }
 nav.row .navbar.navbar-default {
 	background-color: #F7F5F4;
@@ -106,6 +105,7 @@ article.row aside {
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	background-color: #ed9e0e;
+	opacity: 1;
 }
 
 .row .col-md-3.col-md-pull-6.col-sm-4.col-sm-pull-8.hg-aside {
@@ -143,9 +143,8 @@ article.row aside {
 .hg-rightback {
 }
 .hg-para {
-	color: #FCBC12;
+	border: medium ridge #FCBC12;
 	background-color: #030303;
-	border-width: thick;
 }
 .hglogo {
 
@@ -153,6 +152,16 @@ article.row aside {
 .uc-effect {
 	border-radius: 50px;
 }
+img-shadow {
+
+
+
+}
+.yellow-border {
+	border: medium ridge #FCBC12;
+}
+
+
 
 
 
@@ -239,4 +248,8 @@ article.row section h2 {
 .ct_link {
 }
 .uc-effect {
+}
+.img-shadow {
+	-webkit-box-shadow: 2px 5px 2px #DD4615;
+	box-shadow: 2px 5px 2px #DD4615;
 }
