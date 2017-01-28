@@ -29,12 +29,26 @@ header.row {
 	padding-right: 0px;
 	padding-left: 0px;
 	padding-bottom: 20px;
-	background-size: 25% 87%;
-	background-position: center top;
+
+
+
+
+
+
+
+
+
+
+
+
+	background-size: 100%
+%;
+	background-position: left top;
 	margin-bottom: -15px;
 	background-repeat: no-repeat;
-	background-image: url(url);
 	margin-top: -20px;
+	background-image: url(images/fire.jpg);
+	background-size: 25% auto;
 }
 nav.row .navbar.navbar-default {
 	background-color: #F7F5F4;
