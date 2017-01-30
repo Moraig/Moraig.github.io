@@ -1,0 +1,276 @@
+header.row h2 {
+	color: #3D1B03;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 350%;
+	text-align: center;
+	text-shadow: 0px 5px 5px #DF6919;
+}
+.logoyellow {
+	color: #DF6919;
+	text-shadow: 0px 5px 5px #3D1B03;
+}
+.side_region1 {
+	background-color: #F8E6E2;
+}
+.centre {
+}
+
+
+header.row p {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 0px 2px 2px #F5DCB7;
+	letter-spacing: 0.7em;
+	color: #DF6919;
+	font-size: medium;
+}
+header.row {
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 20px;
+
+
+
+
+
+
+
+
+
+
+
+
+	background-size: 100%
+%;
+	background-position: left top;
+	margin-bottom: -15px;
+	background-repeat: no-repeat;
+	margin-top: -20px;
+	background-image: url(images/fire.jpg);
+	background-size: 25% auto;
+}
+nav.row .navbar.navbar-default {
+	background-color: #F7F5F4;
+	color: #3D1B03;
+}
+nav.row .nav.navbar-nav {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0px;
+	float: none;
+	width: 715px;
+	display: block;
+}
+
+
+.nav_border {
+	text-shadow: 0px 0px;
+	/* [disabled]font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace; */
+	text-align: center;
+	-webkit-box-shadow: 0px 2px 5px;
+	box-shadow: 0px 2px 5px;
+	font-size: small;
+	letter-spacing: 0em;
+	border-right: medium ridge #DD4615;
+
+}
+nav.row .navbar {
+	margin-bottom: 0px;
+}
+article.row aside blockquote {
+	padding: 0px;
+	margin: 20px;
+	border: none;
+	font-size: 100%;
+}
+article.row aside blockquote p {
+	padding-top: 0px;
+	padding-right: .5em;
+	padding-left: 1em;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	text-indent: -0.5em;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+footer {
+	padding: 1em 0px;
+	background-color: #F5F3F3;
+	color: #3D1B03;
+	text-align: center;
+}
+
+article.row aside blockquote cite {
+	padding: 0px 10px;
+	display: block;
+	font-style: italic;
+	text-align: right;
+}
+article.row aside {
+	border-top: solid 5px #f2cc43;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding: 1em 0px;
+	border-bottom: solid 3px #f2cc43;
+	font-size: 95%;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	background-color: #ed9e0e;
+	opacity: 1;
+}
+
+.row .col-md-3.col-md-pull-6.col-sm-4.col-sm-pull-8.hg-aside {
+}
+.hg-aside {
+	background-color: #65A3CB;
+}
+
+
+.side_region2 {
+}
+.logo_main {
+	margin-left: 450px;
+}
+
+
+.img-home-main {
+	border-radius: 70px;
+	margin-left: 155px;
+
+}
+.side_pad {
+	padding-left: 40px;
+}
+.side_para_margin {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.img-center {
+	margin: 0 auto;
+	display: block;
+}
+.hg-rightback {
+}
+.hg-para {
+	border: medium ridge #FCBC12;
+	background-color: #030303;
+}
+.hglogo {
+
+}
+.uc-effect {
+	border-radius: 50px;
+}
+img-shadow {
+
+
+
+}
+.yellow-border {
+	border: medium ridge #FCBC12;
+}
+.img-right {
+	margin-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 444px){
+header.row p {
+	letter-spacing: .1em;
+}
+
+header .row {
+	background-size: 95% 80%
+%;
+	padding: 10px 0px;
+	background-size: 85% auto,auto auto,100% auto;
+	font-size: 80%;
+}
+article.row section h1 {
+	padding-top: 15px;
+	font-size: 185%;
+	line-height: 1.1em;
+	text-align: left;
+}
+article.row section h2 {
+	font-size: 150%;
+	line-height: 1.1em;
+}
+
+
+
+
+
+}
+.img-home-main {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+	margin: 0 auto;
+	background-position: 0% 0%;
+	border: 20px ridge #DF6919;
+	display: block;
+}
+.side_region1 {
+}
+.center {
+	text-align: center;
+	margin-top: 2px;
+}
+.side_pad {
+	padding-bottom: 20px;
+}
+.side_region2 {
+}
+.logo_main {
+}
+.side_para_margin {
+
+}
+.centre_img {
+}
+.img_center {
+}
+.img-center {
+}
+.header-img {
+	width: 6%;
+	height: 6%;
+}
+.hg-para {
+
+}
+.side-para-margin {
+}
+.hglogo {
+}
+.ct_link {
+}
+.uc-effect {
+}
+.img-shadow {
+	-webkit-box-shadow: 2px 5px 2px #DD4615;
+	box-shadow: 2px 5px 2px #DD4615;
+}
+.img-right {
+}
